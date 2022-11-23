@@ -1,0 +1,3 @@
+/home/alex/Documentos/HPC1/Parcial3HPC/-Debug/CMakeFiles/Parcial3HPC.dir
+/home/alex/Documentos/HPC1/Parcial3HPC/-Debug/CMakeFiles/edit_cache.dir
+/home/alex/Documentos/HPC1/Parcial3HPC/-Debug/CMakeFiles/rebuild_cache.dir
